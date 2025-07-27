@@ -4,4 +4,4 @@
 
 2.The app.py file is a MongoDB variation.
 
-NOTE: Create a databse and change the credintials as per user details.
+NOTE: Create a database and change the credintials as per user details.
